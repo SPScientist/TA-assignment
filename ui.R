@@ -5,8 +5,6 @@
 # Utkarsh Agrawal (11915020)
 #
 #
-
-
 library("shiny")
 require(dplyr)
 require(magrittr)
