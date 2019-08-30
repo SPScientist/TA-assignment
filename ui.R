@@ -1,9 +1,4 @@
-#
-#
-# Jakki Seshapanpu (11915005)
-# Manoj Sharma (11915050)
-# Utkarsh Agrawal (11915020)
-#library("shiny")
+library("shiny")
 require(dplyr)
 require(magrittr)
 require(tidytext)
